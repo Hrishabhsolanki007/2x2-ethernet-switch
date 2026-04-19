@@ -41,3 +41,5 @@ cd sim
 ## 📊 Result
 
 All packets routed correctly ✅
+
+##Check the waveform in the images folder
