@@ -9,7 +9,7 @@ It supports packet capture, buffering using FIFO, routing based on destination a
 
 ## 🏗️ Architecture
 
-Input A & B → Packet Capture → FIFO Buffers → Streamer (Arbiter) → Output A & B
+![Architecture](images/architecture.png)
 
 ---
 
