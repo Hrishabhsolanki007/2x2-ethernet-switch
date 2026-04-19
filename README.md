@@ -9,7 +9,7 @@ It supports packet capture, buffering using FIFO, routing based on destination a
 
 ## 🏗️ Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](Images/architecture.png)
 
 ---
 
